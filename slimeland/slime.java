@@ -14,6 +14,7 @@ public class slime {
         
     }
     // ㅇㄹㅇㄴㅇ
+    //아앙ㅇ
     public slime(String input_name, int input_hp, int input_mp ) { 
         this.name = input_name;
         this.hp = input_hp;
